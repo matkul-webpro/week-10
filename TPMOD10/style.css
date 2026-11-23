@@ -1,0 +1,8 @@
+body {
+    background-color: #f4f6f8;
+}
+
+.form-card {
+    max-width: 420px;
+    border-radius: 0.75rem;
+}
